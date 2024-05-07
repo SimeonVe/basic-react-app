@@ -1,6 +1,6 @@
 {
   "name": "okta-react-quickstart",
-  "version": "0.1.278",
+  "version": "0.1.279",
   "private": true,
   "dependencies": {
     "@okta/okta-auth-js": "^7.5.1",
